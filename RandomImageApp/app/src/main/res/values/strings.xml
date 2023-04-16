@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random Image</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="generate">Generate</string>
+    <string name="restart">Regenerate</string>
+</resources>
