@@ -5,7 +5,7 @@
 * 6310682635 - ณัฐณิชา ฟักสังข์ - 6310682635@student.tu.ac.th
 
 ## About Project
-Random Image is the 4th assignment about an Android Application for CN322 Mobile Application Developments.
+Random Image is the 4th assignment about an Android Application for CN333 Mobile Application Developments.
 
 ### Requirements
 
@@ -45,3 +45,7 @@ or
 2. In the **Welcome to Android Studio** window, click **Open**
 3. Select the project folder
 4. Click the **Run button** to build and run the app
+
+## Preview
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/SSZlwNkvpsY)
